@@ -1,0 +1,28 @@
+
+body {
+  background-color: #fff;
+}
+
+.centered {
+    padding-top: 200px;
+    text-align: center;
+}
+
+.iaic-text {
+	color: #f38536;
+}
+
+.deep-orange,.hover-deep-orange:hover{
+	color:#fff!important;
+	background-color:#f38536!important
+}
+
+.white,.hover-white:hover{
+	color:#000!important;
+	background-color:#fff!important
+}
+
+.deep-orange:hover{
+	color:#000!important;
+	background-color: #eee!important
+}
